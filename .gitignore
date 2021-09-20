@@ -1,0 +1,12 @@
+# Ignore Everything
+*
+
+# But not .cpp files
+!*.cpp
+
+# Or directories
+!*/
+!.gitignore
+
+# Or pdfs
+!*.pdf
